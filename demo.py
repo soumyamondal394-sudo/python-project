@@ -1,4 +1,9 @@
-a =30
-b=30
 
-print(a+b)
+
+class student:
+    def __init__(self):
+        pass
+
+
+    def show(self,a,b,):
+        print("heloo")
